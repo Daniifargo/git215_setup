@@ -1,2 +1,2 @@
 # git215_setup
-<!-- ## Author: Daniya Khan -->
+## Author: Daniya Khan
